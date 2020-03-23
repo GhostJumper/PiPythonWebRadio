@@ -1,0 +1,3 @@
+HIT RADIO FFH - http://streams.ffh.de/radioffh/aac/hqlivestream.m3u 
+ROCKLAND - https://stream.rockland-digital.de/rockland/mp3-128/stream.m3u
+RADIO BOB - http://streams.radiobob.de/bob-live/mp3-192/mediaplayer/stream.m3u
